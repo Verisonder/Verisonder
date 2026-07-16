@@ -43,7 +43,7 @@
 
 ### 💭 Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=ffffff&symbolColor=ffffff" alt="dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=ffffff" alt="dev quote" />
 </p>
 
 ### 🌐 Find me
