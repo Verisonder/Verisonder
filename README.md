@@ -9,7 +9,7 @@
 <!-- ============ PIXEL-ART TYPING HEADER ============ -->
 <p align="center">
   <a href="https://github.com/Verisonder">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=680&height=70&lines=Hi%2C+I'm+Ali;I+build+things+for+fun;Desktop+pets+%26+tools" alt="typing header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=680&height=70&lines=Hi%2C+I'm+SondeR;I+build+things+for+fun;Desktop+pets+%26+tools" alt="typing header" />
   </a>
 </p>
 
@@ -26,12 +26,12 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About me
 
 ```text
-Self-taught builder from Morocco. I make desktop toys, tools, and
-whatever else sounds fun to build — then ship it and see what breaks.
+I build desktop toys, tools, and whatever else sounds fun to make —
+then ship it and see what breaks.
 
   ▸ Currently:  teaching a pixel-art cat to deal blackjack in a top hat
   ▸ Stack:      Python, Qt, a little C when I have to
-  ▸ Style:      learn by building, break things, fix them, repeat
+  ▸ Style:      build, break, fix, repeat
 ```
 <!-- <<< EDIT >>> rewrite the three lines above however you like -->
 
