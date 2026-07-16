@@ -1,49 +1,26 @@
 <!--
 ====================================================================
   GitHub Profile README  —  github.com/Verisonder
-  EDIT THE BITS MARKED  <<< EDIT >>>  (name, bio, socials).
-  Everything else auto-updates from your GitHub activity.
 ====================================================================
 -->
 
-<!-- ============ PIXEL-ART TYPING HEADER ============ -->
+<!-- ============ HEADER ============ -->
 <p align="center">
   <a href="https://github.com/Verisonder">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=680&height=70&lines=Hi%2C+I'm+SondeR;I+build+things+for+fun;Desktop+pets+%26+tools" alt="typing header" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=700&text=Hello!%20I'm%20SondeR" alt="Hello! I'm SondeR" />
   </a>
 </p>
 
-<!-- ============ SUBTITLE / VISITOR BADGE ============ -->
+<!-- ============ TYPING ABOUT ============ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Verisonder&label=Profile%20Views&color=00E5FF&style=flat-square" alt="profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Building%20cool%20stuff-00E5FF?style=flat-square&labelColor=0D1117" alt="focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1200&color=2f81f7&center=true&vCenter=true&width=700&height=50&lines=I+build+desktop+toys%2C+tools+%26+odd+little+apps;then+ship+them+and+see+what+breaks;Currently%3A+teaching+a+pixel+cat+to+deal+blackjack;Stack%3A+Python%2C+Qt%2C+a+little+C+when+I+have+to;build%2C+break%2C+fix%2C+repeat" alt="typing about" />
 </p>
 
-<br/>
-
-<!-- ============ ABOUT ============ -->
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About me
-
-```text
-I build desktop toys, tools, and whatever else sounds fun to make —
-then ship it and see what breaks.
-
-  ▸ Currently:  teaching a pixel-art cat to deal blackjack in a top hat
-  ▸ Stack:      Python, Qt, a little C when I have to
-  ▸ Style:      build, break, fix, repeat
-```
-<!-- <<< EDIT >>> rewrite the three lines above however you like -->
-
-<br/>
-
 <!-- ============ TECH STACK ============ -->
-### 🛠️ Tools of the trade
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD343" alt="Python" />
   <img src="https://img.shields.io/badge/Qt%20/%20PySide6-0D1117?style=flat-square&logo=qt&logoColor=41CD52" alt="Qt" />
-  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00E5FF" alt="C" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=2f81f7" alt="C" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=windows11&logoColor=00A4EF" alt="Windows" />
@@ -53,39 +30,26 @@ then ship it and see what breaks.
 
 <br/>
 
-<!-- ============ FEATURED PROJECT ============ -->
-### 📌 Featured
-
-<p align="left">
-  <a href="https://github.com/Verisonder/SondeR-Cat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verisonder&repo=SondeR-Cat&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0D1117&border_color=30363d" alt="SondeR-Cat" />
-  </a>
-</p>
-
-<br/>
-
-<!-- ============ STATS ============ -->
-### 📊 The numbers
-
+### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Verisonder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0D1117" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verisonder&layout=compact&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0D1117" alt="top languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Verisonder&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Verisonder&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Verisonder&hide_border=true&background=0D1117&stroke=30363d&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Verisonder&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-<br/>
+### 💭 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
 
-<!-- ============ SOCIALS ============ -->
 ### 🌐 Find me
-
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/verisonder/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 </p>
 
-<br/>
-
-<!-- ============ FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00E5FF&height=100&section=footer" width="100%" alt="footer" />
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/Verisonder">VerisondeR</a></i></p>
