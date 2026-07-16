@@ -78,14 +78,11 @@ then ship it and see what breaks.
 
 <br/>
 
-<!-- ============ SOCIALS  — <<< EDIT >>> put your real links, delete unused ============ -->
+<!-- ============ SOCIALS ============ -->
 ### 🌐 Find me
 
 <p align="left">
-  <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-  <a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
-  <a href="https://tiktok.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/TikTok-0D1117?style=flat-square&logo=tiktok&logoColor=ffffff" alt="TikTok" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://www.instagram.com/verisonder/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 </p>
 
 <br/>
