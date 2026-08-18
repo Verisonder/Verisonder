@@ -52,4 +52,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Verisonder">VerisondeR</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Verisonder">VerisondeR</a> · <a href="https://www.instagram.com/verisonder/">Nidal</a></i></p>
