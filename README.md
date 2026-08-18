@@ -13,7 +13,7 @@
 
 <!-- ============ TYPING ABOUT ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1200&color=379ED6&center=true&vCenter=true&width=700&height=50&lines=I+build+Android+apps%2C+tools+%26+odd+little+things;then+ship+them+and+see+what+breaks;Currently%3A+running+an+AI+entirely+on+a+phone;Stack%3A+Kotlin%2C+C%2B%2B%2C+Python+when+it+suits;build%2C+break%2C+fix%2C+repeat" alt="typing about" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1200&color=379ED6&center=true&vCenter=true&width=700&height=50&lines=I+build+desktop+toys%2C+tools+%26+odd+little+apps;then+ship+them+and+see+what+breaks;Currently%3A+teaching+a+pixel+cat+to+deal+blackjack;Stack%3A+Python%2C+Qt%2C+a+little+C+when+I+have+to;build%2C+break%2C+fix%2C+repeat" alt="typing about" />
 </p>
 
 <!-- ============ TECH STACK ============ -->
