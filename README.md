@@ -19,16 +19,13 @@
 <!-- ============ TECH STACK ============ -->
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
   <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=E76F00" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD343" alt="Python" />
   <img src="https://img.shields.io/badge/Qt%20/%20PySide6-0D1117?style=flat-square&logo=qt&logoColor=41CD52" alt="Qt" />
   <img src="https://img.shields.io/badge/Gradle-0D1117?style=flat-square&logo=gradle&logoColor=02303A" alt="Gradle" />
   <img src="https://img.shields.io/badge/CMake-0D1117?style=flat-square&logo=cmake&logoColor=E34F26" alt="CMake" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=windows11&logoColor=00A4EF" alt="Windows" />
   <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
 </p>
 
