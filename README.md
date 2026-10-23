@@ -53,4 +53,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://www.instagram.com/verisonder/">Nidal Akhrif</a> · <a href="https://github.com/Verisonder">VerisondeR</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://www.instagram.com/verisonder/">Nidal</a> · <a href="https://github.com/Verisonder">VerisondeR</a></i></p>
