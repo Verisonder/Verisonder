@@ -39,7 +39,7 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Verisonder&bg_color=00000000&color=379ED6&line=379ED6&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/379ED6/Verisonder" alt="contribution graph" />
 </p>
 
 ### 💭 Dev Quote
