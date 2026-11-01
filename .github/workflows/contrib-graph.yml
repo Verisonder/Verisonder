@@ -1,0 +1,30 @@
+name: Contribution graph
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/contrib_graph.py', '.github/workflows/contrib-graph.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Draw the graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/contrib_graph.py "${{ github.repository_owner }}" /tmp/contrib.svg
+      - name: Publish to the output branch
+        run: |
+          cd /tmp && rm -rf out && mkdir out && cd out
+          git init -q -b output
+          cp /tmp/contrib.svg .
+          git add contrib.svg
+          git -c user.name=github-actions -c user.email=github-actions@users.noreply.github.com commit -qm "Update contribution graph"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output

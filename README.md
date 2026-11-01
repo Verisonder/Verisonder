@@ -39,7 +39,7 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/379ED6/Verisonder" alt="contribution graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/Verisonder/Verisonder/output/contrib.svg" alt="contribution graph" />
 </p>
 
 ### 💭 Dev Quote
